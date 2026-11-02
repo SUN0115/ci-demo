@@ -29,5 +29,3 @@ describe('AppController (e2e)', () => {
   });
 });
 
-
-// 'Hello World!' 也改成 'Hello CI!'
